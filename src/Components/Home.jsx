@@ -15,7 +15,7 @@ export default function Home() {
         <div className="row ">
           <div
             className="col-lg-6 d-flex justify-content-center align-content-center flex-wrap "
-            data-aos="fade-rig"
+            data-aos="fade-right"
             data-aos-duration="2000"
           >
             <div className="content">
