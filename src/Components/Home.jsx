@@ -16,7 +16,7 @@ export default function Home() {
           <div
             className="col-lg-6 d-flex justify-content-center align-content-center flex-wrap "
             data-aos="fade-right"
-            data-aos-duration="2000"
+            data-aos-duration="1000"
           >
             <div className="content">
               <h1>
@@ -28,7 +28,7 @@ export default function Home() {
           <div
             className="col-lg-5 offset-lg-1 heroImg"
             data-aos="fade-left"
-            data-aos-duration="2000"
+            data-aos-duration="1000"
           >
             <img src={img} className="w-100" alt="" />
           </div>
