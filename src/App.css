@@ -1,0 +1,397 @@
+* {
+  font-family: "Poppins", sans-serif;
+  background-color: #000 !important;
+  color: white;
+}
+.mainNav {
+  background-color: white;
+  box-shadow: 3px 3px 15px 0px rgba(246, 244, 244, 0.1);
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  color: white;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+  color: #5a73fe;
+}
+.navbar-nav .nav-link.active {
+  color: white !important;
+}
+.navbar-brand {
+  color: #5a73fe !important;
+  font-size: 24px;
+  font-weight: 500;
+}
+.navbar-toggler {
+  border: 1px solid white !important;
+}
+#home {
+  margin-top: 90px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+#home .content {
+  position: relative;
+  text-align: left;
+}
+#home .scroll-btn {
+  width: 100px;
+  height: 100px;
+  margin-inline: auto;
+}
+#home .content:after {
+  font-weight: 500;
+  font-size: 2.5rem;
+  bottom: 0;
+  left: 320px;
+  color: #5a73fe;
+  content: "";
+  position: absolute;
+  animation: typing 16s linear infinite;
+}
+
+@keyframes typing {
+  0% {
+    content: "|";
+  }
+  1.5625% {
+    content: "J|";
+  }
+  3.125% {
+    content: "Ja|";
+  }
+  4.6875% {
+    content: "Jav|";
+  }
+  6.25% {
+    content: "Java|";
+  }
+  7.8125% {
+    content: "Javas|";
+  }
+  9.375% {
+    content: "Javasc|";
+  }
+  10.9375% {
+    content: "Javascr|";
+  }
+  12.5% {
+    content: "Javascr|";
+  }
+  14.0625% {
+    content: "Javascri|";
+  }
+  15.625% {
+    content: "Javascrip|";
+  }
+  17.1875% {
+    content: "Javascript";
+  }
+  18.75% {
+    content: "Javascrip|";
+  }
+  20.3125% {
+    content: "Javascri|";
+  }
+  21.875% {
+    content: "Javascr|";
+  }
+  23.4375% {
+    content: "Javasc|";
+  }
+  25% {
+    content: "Javas|";
+  }
+  26.5625% {
+    content: "Java|";
+  }
+  28.125% {
+    content: "Jav|";
+  }
+  29.6875% {
+    content: "Ja|";
+  }
+  31.25% {
+    content: "J|";
+  }
+  32.8125% {
+    content: "|";
+  }
+  34.375% {
+    content: "R|";
+  }
+  35.9375% {
+    content: "Re|";
+  }
+  37.5% {
+    content: "Rea|";
+  }
+  39.0625% {
+    content: "Reac|";
+  }
+  40.625% {
+    content: "React|";
+  }
+  42.1875% {
+    content: "React.|";
+  }
+  43.75% {
+    content: "React.j|";
+  }
+  45.3125% {
+    content: "React.js|";
+  }
+  46.875% {
+    content: "React.j|";
+  }
+  48.4375% {
+    content: "React.|";
+  }
+  50% {
+    content: "React|";
+  }
+  51.5625% {
+    content: "Reac|";
+  }
+  53.125% {
+    content: "Rea|";
+  }
+  54.6875% {
+    content: "Re|";
+  }
+  56.25% {
+    content: "R|";
+  }
+  57.8125% {
+    content: "|";
+  }
+  59.375% {
+    content: "N|";
+  }
+  60.9375% {
+    content: "No|";
+  }
+  62.5% {
+    content: "Nod|";
+  }
+  64.0625% {
+    content: "Node|";
+  }
+  65.625% {
+    content: "Node.|";
+  }
+  67.1875% {
+    content: "Node.j|";
+  }
+  68.75% {
+    content: "Node.js|";
+  }
+  70.3125% {
+    content: "Node.j|";
+  }
+  71.875% {
+    content: "Node.|";
+  }
+  73.4375% {
+    content: "Node|";
+  }
+  75% {
+    content: "Nod|";
+  }
+  76.5625% {
+    content: "No|";
+  }
+  78.125% {
+    content: "N|";
+  }
+  79.6875% {
+    content: "|";
+  }
+  81.25% {
+    content: "M|";
+  }
+  82.8125% {
+    content: "Mo|";
+  }
+  84.375% {
+    content: "Mon|";
+  }
+  85.9375% {
+    content: "Mong|";
+  }
+  87.5% {
+    content: "Mongo|";
+  }
+  89.0625% {
+    content: "MongoD|";
+  }
+  90.625% {
+    content: "MongoDB|";
+  }
+  92.1875% {
+    content: "MongoD|";
+  }
+  93.75% {
+    content: "Mongo|";
+  }
+  95.3125% {
+    content: "Mong|";
+  }
+  96.875% {
+    content: "Mon|";
+  }
+  98.4375% {
+    content: "Mo|";
+  }
+  100% {
+    content: "M|";
+  }
+}
+
+#about .info p {
+  font-size: 18px;
+  line-height: 2;
+  text-align: left;
+}
+#projects .card {
+  border: 1px solid white;
+}
+#projects .card-footer {
+  border-top: 1px solid white;
+}
+
+#projects .docsBtn {
+  background-color: #ff6c37 !important;
+  color: white;
+  transition: all 0.5s;
+}
+#projects .docsBtn:hover {
+  background-color: #e05320 !important;
+}
+#projects .linkBtn {
+  color: white;
+  background-color: #007bff !important;
+  transition: all 0.5s;
+}
+#projects .linkBtn:hover {
+  background-color: #0056b3 !important;
+}
+#projects .card-title {
+  color: white;
+}
+
+.skills-section {
+  text-align: center;
+  padding: 2rem;
+}
+
+.category-card {
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border: 1px solid white;
+  box-shadow: 3px 4px 6px rgba(246, 245, 245, 0.1);
+}
+
+.category-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.tech-icons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.tech-icons svg {
+  transition: transform 0.3s ease;
+}
+.tech-icons span {
+  font-size: 18px;
+  font-weight: 500;
+}
+.tech-icons svg:hover {
+  transform: scale(1.2);
+}
+.contact-section {
+  text-align: center;
+  padding: 2rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.contact-form {
+  margin-bottom: 2rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+footer p {
+  margin: 0 15px;
+}
+
+footer a {
+  color: #007bff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+#about .download-btn:hover,
+#about .download-btn:hover i {
+  background-color: #007bff !important;
+}
+#about .download-btn,
+#about .download-btn i {
+  color: white;
+  transition: all 0.5s;
+}
+@media (min-width: 360px) and (max-width: 767.9px) {
+  #home {
+    margin-top: 60px;
+  }
+  #home .heroImg {
+    margin-top: 18px;
+  }
+  #home .content:after {
+    font-weight: 500;
+    font-size: 2rem;
+    bottom: 0;
+    left: 90px;
+  }
+  footer {
+    flex-direction: column;
+  }
+}
+@media (min-width: 768px) and (max-width: 884px) {
+  #home {
+    margin-top: 60px;
+  }
+  #home .heroImg {
+    margin-top: 20px;
+  }
+  #home .content:after {
+    font-weight: 600;
+    font-size: 2rem;
+    bottom: 5px;
+    left: 110px;
+  }
+}
