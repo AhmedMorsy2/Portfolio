@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c40087f8.css",
+    "main.js": "/Portfolio/static/js/main.20cd7129.js",
+    "static/js/453.83234151.chunk.js": "/Portfolio/static/js/453.83234151.chunk.js",
+    "static/media/vertical-scroll.gif": "/Portfolio/static/media/vertical-scroll.09bc61eb5da0d9a896e9.gif",
+    "static/media/fa-solid-900.ttf": "/Portfolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Portfolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/yummy.jpg": "/Portfolio/static/media/yummy.44a2d345be763f6234b9.jpg",
+    "static/media/Freegmaes.jpg": "/Portfolio/static/media/Freegmaes.22ccdf598c2c681f4d49.jpg",
+    "static/media/fa-solid-900.woff2": "/Portfolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/e-commerce.jpg": "/Portfolio/static/media/e-commerce.57fe7bf775e66cb2d477.jpg",
+    "static/media/fa-brands-400.woff2": "/Portfolio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/weatherApp.jpg": "/Portfolio/static/media/weatherApp.abe7f69b4317e8b96dd8.jpg",
+    "static/media/fa-regular-400.ttf": "/Portfolio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/AhmedMorsy_CV.pdf": "/Portfolio/static/media/AhmedMorsy_CV.9169b089697a9deb6264.pdf",
+    "static/media/bookmark.jpg": "/Portfolio/static/media/bookmark.96797712a1e55b8dbbfd.jpg",
+    "static/media/sarahaClone.jpg": "/Portfolio/static/media/sarahaClone.c3e74276d6bbdc434537.jpg",
+    "static/media/fa-regular-400.woff2": "/Portfolio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Portfolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/undraw_web_developer_re_h7ie.svg": "/Portfolio/static/media/undraw_web_developer_re_h7ie.0b9dc28e42c810f22a7a5f0536603674.svg",
+    "static/media/fa-v4compatibility.woff2": "/Portfolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Portfolio/index.html",
+    "main.c40087f8.css.map": "/Portfolio/static/css/main.c40087f8.css.map",
+    "main.20cd7129.js.map": "/Portfolio/static/js/main.20cd7129.js.map",
+    "453.83234151.chunk.js.map": "/Portfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c40087f8.css",
+    "static/js/main.20cd7129.js"
+  ]
+}
